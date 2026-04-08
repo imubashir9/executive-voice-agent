@@ -53,6 +53,8 @@ Once the UI launches:
 2. Speak naturally into your microphone. The agent will transcribe your speech, process the intent, execute any necessary tools, and reply audibly.
 3. Click **⏹ Stop** to end the session.
 
-## ⚠️ Security Note
-Never commit your `.env` file to version control. Always keep your API keys and passwords secure.
-```
+⚠️ Security Note
+Never commit your .env file to version control. Always keep your API keys and passwords secure.
+
+
+How does that look? It highlights all the impressive integrations you've built into the script!
