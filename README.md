@@ -55,6 +55,6 @@ Once the UI launches:
 
 ⚠️ Security Note
 Never commit your .env file to version control. Always keep your API keys and passwords secure.
-
-
+```bash
 How does that look? It highlights all the impressive integrations you've built into the script!
+```
